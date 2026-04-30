@@ -1,2 +1,1 @@
-# my-first-scripts
-Мої перші кроки в Python та робота з API
+My first steps in Python and working with APIs.
