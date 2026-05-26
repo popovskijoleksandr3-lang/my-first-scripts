@@ -10,7 +10,7 @@ class Tank:
         else:
             print("Закінчились снаряди")
 
-tank1=Tank("Т80 БВМ",43)
+tank1=Tank("Т80",43)
 tank1.Bk()
 tank1.Bk()
 tank1.Bk()
